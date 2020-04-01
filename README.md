@@ -22,4 +22,4 @@ https://github.com/nateshmbhat/pyttsx3
 
 For more info on dependency packages, see: https://packagecontrol.io/docs/dependencies
 
-Original pyttsx3 [all/README.md](README) can be found in the "all" directory.
+Original pyttsx3 [README](all/README.md) can be found in the "all" directory.
